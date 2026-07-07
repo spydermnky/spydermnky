@@ -52,13 +52,6 @@ CS + Game Design @ Carnegie Mellon University → MS in Computer Science @ RIT (
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=spydermnky&show_icons=true&theme=default&hide_border=true" alt="Peter's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spydermnky&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
 ---
 
-<p align="center"><em>Portfolio: <a href="https://your-portfolio-link-here">link</a></em></p>
+<p align="center"><em>Portfolio: <a href="https://spydermnky.github.io">link</a></em></p>
