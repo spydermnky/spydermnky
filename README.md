@@ -31,7 +31,6 @@ CS + Game Design @ Carnegie Mellon University → MS in Computer Science @ RIT (
 
 **[scubaHunter](https://github.com/spydermnky/scubaHunter)** — Global Game Jam 2025 entry: a 2D underwater game about trapping fish in bubbles while avoiding deep-sea trash.
 
-**[MovementPrototype](https://github.com/spydermnky/MovementPrototype)** — FPS movement prototype built in Unity 3D.
 
 > 🔭 Currently exploring: generative video/content models and fintech applications of ML — repos coming soon.
 
@@ -42,7 +41,6 @@ CS + Game Design @ Carnegie Mellon University → MS in Computer Science @ RIT (
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -51,7 +49,7 @@ CS + Game Design @ Carnegie Mellon University → MS in Computer Science @ RIT (
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+ 
 ---
 
 <p align="center"><em>Portfolio: <a href="https://spydermnky.github.io">link</a></em></p>
