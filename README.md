@@ -13,13 +13,13 @@ CS + Game Design @ Carnegie Mellon University → MS in Computer Science @ RIT (
 
 ### 🎓 About Me
 
-- 🎓 Graduated from **CMU** with a BS in Computer Science & Game Design (Computational Game Design)
-- 📚 Starting my **MS in Computer Science at RIT** this fall
+- 🎓 Graduated from **CMU** with a BS in Computer Science & Game Design
+- 📚 Starting my **MS in Computer Science @ RIT** this fall
 - 💻 Focused on **software engineering**, with growing depth in **ML for video/content generation** and a budding interest in **fintech**
 - 🧠 Building agentic, retrieval-grounded LLM systems, and exploring generative pipelines beyond text (video, procedural content)
 - 🧑‍🏫 Former TA for *Understanding Game Engines* (Unity/C#) and *Machine Learning and Art* at CMU
-- 🌍 Previously interned as a Software Engineer at Iridium Business Solutions (Cape Town), working on serverless backend systems
-- 📈 Curious about the intersection of ML and financial systems — always open to chat about fintech
+- 🌍 Previously interned as a Software Engineer at Iridium Business Solutions, working on serverless backend systems
+- 📈 Curious about the intersection of ML and financial systems
 
 ### 🚀 Featured Projects
 
